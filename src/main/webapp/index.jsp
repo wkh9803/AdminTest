@@ -13,9 +13,9 @@
 	</head>
 	<body>
 		<div id="wrap">
-			<h1>메인페이지</h1>
-			<hr>
-		
+			<h1>메인페이지(수정)</h1>
+			<img src="/images/20200723055344399.png" alt="다음 로고 이미지">
+			
 		</div>
 		<!-- div#wrap -->
 		<script src="https://code.jquery.com/jquery-3.6.4.js"
